@@ -34,6 +34,7 @@ $Allowed = @(
   # '/jsonrpc2_v2' # Can't use this yet :-(
   '/lsp/debug/tag'
   '/event'
+  '/xcontext' # Used be the downstream protocol packages. This _shouldn't_ be here
 )
 
 # Copy Directories
